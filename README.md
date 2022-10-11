@@ -16,7 +16,12 @@ Sobre mi
 - ⚡ Fun fact: ...
 -->
 **Sobre mi**
+
 - 🚀 Actualmente estoy terminando mi curso de desarrollador fullstack en soyhenry.com
 - 💻 Me apasiona el Backend
 - 🌱 Estoy aprendiendo TypeScript para mejorar como profesional
 - 📫 Me pueden contactar mediante mi correo electrónico: roger.rm03@gmail.com
+
+**Skills**
+<a href="https://www.flaticon.es/iconos-gratis/javascript" title="javascript iconos">Javascript iconos creados por Freepik - Flaticon</a>
+
