@@ -23,5 +23,5 @@ Sobre mi
 - 📫 Me pueden contactar mediante mi correo electrónico: roger.rm03@gmail.com
 
 **Skills**
-<a href="https://www.flaticon.es/iconos-gratis/javascript" title="javascript iconos">Javascript iconos creados por Freepik - Flaticon</a>
+![js](https://user-images.githubusercontent.com/85204436/195192482-244eaccf-454a-449b-b7f2-a919c02ac739.png)
 
