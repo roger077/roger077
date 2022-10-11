@@ -14,10 +14,10 @@ Sobre mi
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-**Sobre mi*
+**Sobre mi**
 
 💻TechSkills JavaScript | React | Redux | HTML | CSS | Node | Express | PostgreSQL | Mongo | Sequelize | Git | Scrum | GitHub | NodeMailer
 
--🚀 Actualmente estoy terminando mi curso de desarrollador fullstack en soyhenry.com
--💻 Me apasiona el Backend
--📫 Me pueden contactar mediante mi correo electrónico: roger.rm03@gmail.com
+- 🚀 Actualmente estoy terminando mi curso de desarrollador fullstack en soyhenry.com
+- 💻 Me apasiona el Backend
+- 📫 Me pueden contactar mediante mi correo electrónico: roger.rm03@gmail.com
