@@ -1,4 +1,4 @@
-### Hola �, soy Roger
+### Hola 👋, soy Roger
 
 <!--
 **roger077/roger077** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,10 @@ Sobre mi
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+**Sobre mi*
+
+💻TechSkills JavaScript | React | Redux | HTML | CSS | Node | Express | PostgreSQL | Mongo | Sequelize | Git | Scrum | GitHub | NodeMailer
+
+-🚀 Actualmente estoy terminando mi curso de desarrollador fullstack en soyhenry.com
+-💻 Me apasiona el Backend
+-📫 Me pueden contactar mediante mi correo electrónico: roger.rm03@gmail.com
