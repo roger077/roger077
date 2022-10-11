@@ -16,9 +16,6 @@ Sobre mi
 - ⚡ Fun fact: ...
 -->
 **Sobre mi**
-
-🖥️ TechSkills JavaScript | React | Redux | HTML | CSS | Node | Express | PostgreSQL | Mongo | Sequelize | Git | Scrum | GitHub | NodeMailer
-
 - 🚀 Actualmente estoy terminando mi curso de desarrollador fullstack en soyhenry.com
 - 💻 Me apasiona el Backend
 - 🌱 Estoy aprendiendo TypeScript para mejorar como profesional
