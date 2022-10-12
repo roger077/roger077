@@ -20,7 +20,7 @@ Sobre mi
 - 🚀 Actualmente estoy terminando mi curso de desarrollador fullstack en soyhenry.com
 - 💻 Me apasiona el Backend
 - 🌱 Estoy aprendiendo TypeScript para mejorar como profesional
-- 📫 Me pueden contactar mediante mi correo electrónico: roger.rm03@gmail.com o mi linkedin: https://www.linkedin.com/in/roger-mi%C3%B1o-a36813219/
+- 📫 Me pueden contactar mediante mi correo electrónico: roger.rm03@gmail.com o linkedin: https://www.linkedin.com/in/roger-mi%C3%B1o-a36813219/
 
 **Skills**
 - Javascript || React || Redux || Bootstrap || Scrum || NodeJS || Express || PostgreSQL || MongoDB || Mongoose || Sequelize
