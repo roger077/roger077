@@ -1,6 +1,8 @@
 ### Hola 👋, soy Roger Miño
 
-📢 Soy Full Stack Developer. Nacido y criado en Entre Ríos, Argentina, tengo mucho enticiasmo en especializarme en el campo de la programación por eso me encuentro cursando el bootcamp de Soy Henry y estudiuo Tecnicatura Universitaria en Programación.
+📢 Hola 👋 mi nombre es Roger Miño, soy Full Stack Developer. Me caracterizo por mi 
+predisposición y compromiso para trabajar en equipo adaptándome ante cualquier circunstancia, enfocado en especializarme en esta profesión.
+Busco un área donde pueda explotar mis habilidades y encontrar nuevos desafíos que me permitan mejorar constantemente.
 <!--
 **roger077/roger077** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
