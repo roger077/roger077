@@ -25,4 +25,4 @@ Sobre mi
 - 📫 Me pueden contactar mediante mi correo electrónico: roger.rm03@gmail.com o linkedin: https://www.linkedin.com/in/roger-mi%C3%B1o-a36813219/
 
 **Skills**
-- Javascript || React || Redux || Bootstrap || Scrum || NodeJS || Express || PostgreSQL || MongoDB || Mongoose || Sequelize
+- JavaScript | React | Redux | NodeJS | postgreSQL | express | C# | CSS | HTML | MongoDB | GIT Flow | Scrum
