@@ -19,7 +19,7 @@ Sobre mi
 -->
 **Sobre mi**
 
-- 🚀 Actualmente estoy terminando mi curso de desarrollador fullstack en soyhenry.com
+- 🚀 Egresado del bootcamp soyhenry.com
 - 💻 Me apasiona el Backend
 - 🌱 Estoy aprendiendo TypeScript para mejorar como profesional
 - 📫 Me pueden contactar mediante mi correo electrónico: roger.rm03@gmail.com o linkedin: https://www.linkedin.com/in/roger-mi%C3%B1o-a36813219/
