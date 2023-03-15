@@ -13,4 +13,4 @@ Busco un área donde pueda explotar mis habilidades y encontrar nuevos desafíos
 - 💼 Toda mi experiencia en mi <a href="https://portafolio-roger-mino.netlify.app/">portafolio</a>
 
 **Skills**
-- JavaScript | React | Redux | NodeJS | postgreSQL | express | C# | CSS | HTML | MongoDB | GIT Flow | Scrum
+- JavaScript | TypeScript | React | Redux | Redux-Toolkit | NodeJS | postgreSQL | express | C# | CSS | HTML | MongoDB | Mongoose | TypeORM | GIT Flow | Scrum
