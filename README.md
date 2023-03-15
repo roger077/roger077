@@ -10,7 +10,7 @@ Busco un área donde pueda explotar mis habilidades y encontrar nuevos desafíos
 - 💻 Me apasiona el Backend
 - 🌱 Estoy aprendiendo TypeScript para mejorar como profesional
 - 📫 Me pueden contactar mediante mi correo electrónico: roger.rm03@gmail.com o <a href="https://www.linkedin.com/in/roger-mi%C3%B1o-a36813219/" target="_blank">linkedin</a> 
-- 💼 https://portafolio-roger-mino.netlify.app/
+- 💼 Toda mi experiencia en mi <a href="https://portafolio-roger-mino.netlify.app/">portafolio</a>
 
 **Skills**
 - JavaScript | React | Redux | NodeJS | postgreSQL | express | C# | CSS | HTML | MongoDB | GIT Flow | Scrum
