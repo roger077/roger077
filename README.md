@@ -6,10 +6,10 @@ Busco un área donde pueda explotar mis habilidades y encontrar nuevos desafíos
 
 **Sobre mi**
 
-- 🚀 Egresado del bootcamp soyhenry.com
+- 🚀 Egresado del bootcamp <a href="soyhenry.com">Soy Henry</a>
 - 💻 Me apasiona el Backend
 - 🌱 Estoy aprendiendo TypeScript para mejorar como profesional
-- 📫 Me pueden contactar mediante mi correo electrónico: roger.rm03@gmail.com o <a href ="https://www.linkedin.com/in/roger-mi%C3%B1o-a36813219/" target="_blank">linkedin</a> 
+- 📫 Me pueden contactar mediante mi correo electrónico: roger.rm03@gmail.com o <a href="https://www.linkedin.com/in/roger-mi%C3%B1o-a36813219/" target="_blank">linkedin</a> 
 - 💼 https://portafolio-roger-mino.netlify.app/
 
 **Skills**
